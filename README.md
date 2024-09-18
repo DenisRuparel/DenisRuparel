@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denisruparel&show_icons=true&locale=en&theme=dark&layout=compact" alt="denisruparel" /></p>
 
-![](https://github-contributor-stats.vercel.app/api?username=DenisRuparel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=DenisRuparel&limit=5&theme=dark&combine_all_yearly_contributions=true&layout=compact)
