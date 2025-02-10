@@ -1,4 +1,3 @@
-![logo](https://github.com/DenisRuparel/DenisRuparel/blob/master/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png)
 <h1 align="center">Hi 👋, I'm Denis Ruparel</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
