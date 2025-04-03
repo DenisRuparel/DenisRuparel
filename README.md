@@ -26,6 +26,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=denisruparel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />&nbsp;&nbsp;
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=denisruparel&custom_title=Contibution%20Graph&theme=github-compact&area=false&hide_border=false&hide_title=false" height="150" alt="activity-graph graph"  />&nbsp;&nbsp;
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=denisruparel&custom_title=Denis Ruparel's Contribution Graph&theme=github-compact&area=false&hide_border=false&hide_title=false" height="150" alt="activity-graph graph"  />&nbsp;&nbsp;
 </div>
 
