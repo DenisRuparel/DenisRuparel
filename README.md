@@ -11,3 +11,60 @@
 </div>
 
 ---
+
+## 🚀 About Me
+
+```yaml
+apiVersion: devops.engineer/v1
+kind: DevOpsEngineer
+metadata:
+  name: denis-ruparel
+  labels:
+    role: devops-engineer
+    focus: cloud-native
+  location: Ahmedabad, Gujarat, India
+
+spec:
+  fullName: Denis Ruparel
+  role: DevOps Engineer
+  education: B.Tech Computer Engineering
+
+  tools:
+    os:
+      - Linux
+
+    containerization:
+      - Docker
+      - Harbor Container Registry
+
+    orchestration:
+      - Kubernetes
+      - Kustomize
+
+    cicd:
+      - GitHub Actions
+
+    versionControl:
+      - Git
+      - GitHub
+
+    cloud:
+      - AWS
+
+  currentFocus:
+    - Mastering Kubernetes and Cloud-Native technologies
+    - Building CI/CD pipelines for containerized applications
+    - Implementing GitOps-style workflows
+    - Learning advanced Kubernetes security and networking
+
+  achievements:
+    - AWS Certified Cloud Practitioner
+    - Built CI/CD pipelines with GitHub Actions
+    - Deployed applications on Kubernetes clusters
+
+  funFact: >
+    I enjoy automating everything and turning manual processes
+    into scalable DevOps pipelines 🚀
+```
+
+---
