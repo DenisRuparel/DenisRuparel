@@ -56,3 +56,8 @@ spec:
 ```
 
 ---
+
+## 🛠️ Technology Stack
+
+
+---
