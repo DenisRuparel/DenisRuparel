@@ -30,25 +30,14 @@ spec:
   education: B.Tech Computer Engineering
 
   tools:
-    os:
       - Linux
-
-    containerization:
       - Docker
       - Harbor Container Registry
-
-    orchestration:
       - Kubernetes
       - Kustomize
-
-    cicd:
       - GitHub Actions
-
-    versionControl:
       - Git
       - GitHub
-
-    cloud:
       - AWS
 
   currentFocus:
