@@ -21,13 +21,12 @@ metadata:
   name: denis-ruparel
   labels:
     role: devops-engineer
-    focus: cloud-native
   location: Ahmedabad, Gujarat, India
 
 spec:
   fullName: Denis Ruparel
   role: DevOps Engineer
-  education: B.Tech Computer Engineering
+  education: B.Tech Computer Scince & Engineering
 
   tools:
       - Linux
