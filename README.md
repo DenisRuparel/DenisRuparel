@@ -112,6 +112,24 @@ spec:
   <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=DenisRuparel&theme=tokyo-night&hide_border=true" width="90%">
 </div>
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+---
+
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/denisruparel">
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=4" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/denis_ruparel_/">
+    <img src="https://skillicons.dev/icons?i=instagram&perline=4" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DenisRuparel">
+    <img src="https://skillicons.dev/icons?i=github&perline=4" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:denisruparel28@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&perline=4" />
+  </a>
+</p>
