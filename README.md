@@ -65,6 +65,12 @@ spec:
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
 </p>
 
+### 🛢️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
+</p>
+
 ### ☁️ Cloud & DevOps
 
 <p align="left">
