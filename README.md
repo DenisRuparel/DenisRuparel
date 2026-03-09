@@ -125,6 +125,10 @@ spec:
     <img src="https://skillicons.dev/icons?i=instagram&perline=4" />
   </a>
   &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/DenisRuparel/">
+    <img src="https://skillicons.dev/icons?i=twitter&perline=4" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DenisRuparel">
     <img src="https://skillicons.dev/icons?i=github&perline=4" />
   </a>
