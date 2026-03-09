@@ -59,5 +59,59 @@ spec:
 
 ## 🛠️ Technology Stack
 
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,githubactions,prometheus,grafana,terraform,ansible,jenkins,aws" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,vim,notion,replit,powershell,bash,postman,netlify,vercel" />
+</p>
+
+### 💿 Operating Systems
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,kali,redhat,windows" />
+</p>
 
 ---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DenisRuparel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+      </td>
+<td width="50%">
+    <img src="https://nirzak-streak-stats.vercel.app?user=DenisRuparel&theme=tokyonight" alt="GitHub Streak" />
+</td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DenisRuparel&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Most Used Languages" />
+      </td>
+    <td width="50%">
+    <img src="https://nirzak-streak-stats.vercel.app?user=DenisRuparel&theme=tokyonight&mode=weekly" alt="GitHub Trophies" />
+</td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=DenisRuparel&theme=tokyo-night&hide_border=true" width="90%">
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
