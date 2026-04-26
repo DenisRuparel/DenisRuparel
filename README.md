@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://www.devopshound.com/wp-content/uploads/2024/01/40.gif" width="600" height="600"/>
+  <img src="https://www.devopshound.com/wp-content/uploads/2024/01/40.gif" width="600" height="400"/>
 </div>
 
 ---
