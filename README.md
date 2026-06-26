@@ -100,15 +100,7 @@ spec:
         <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DenisRuparel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
       </td>
 <td width="50%">
-    <img src="https://nirzak-streak-stats.vercel.app?user=DenisRuparel&theme=tokyonight" alt="GitHub Streak" />
-</td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DenisRuparel&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Most Used Languages" />
-      </td>
-    <td width="50%">
-    <img src="https://nirzak-streak-stats.vercel.app?user=DenisRuparel&theme=tokyonight&mode=weekly" alt="GitHub Trophies" />
+    <img src="https://streak-stats.demolab.com?user=DenisRuparel&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
 </td>
     </tr>
   </table>
